@@ -1,0 +1,5 @@
+{
+    "git.autofetch": "all",
+    "git.autofetchPeriod": 300,
+    "git.fetchOnPull": true
+}

@@ -1,0 +1,5 @@
+# Excludes
+.ipynb_checkpoints
+ipython_config.py
+*.log
+.venv/
